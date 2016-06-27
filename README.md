@@ -19,6 +19,7 @@
 8.Portas Michele
 
 9.Siddi Carlotta
+> Let’s suppose you decided that outsourcing is a good fit for your IT organization. How do you procede to identify which functions you    should outsource?
 
 10.Sommers J. Michael
 
