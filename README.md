@@ -8,7 +8,8 @@ Let’s talk about the different departments and corporate title starting from t
  > The project management is very important for the success of a project. What are the biggest challenges for Project Management today? How you would face them? Ot What tools you can use to face these challenges?
  
 3.Fois Matteo
-
+ > Software testing
+ 
 4.Mameli Alessio
  > ISO 9000 is a set of standards for quality assurance systems. The document was written to help software development organizations to create a good quality product. What does the ISO 9000 document suggest about the software testing?
 
